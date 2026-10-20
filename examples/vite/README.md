@@ -1,11 +1,65 @@
-# Vue 3 + Typescript + Vite
+---
+title: Wujie Vite Example (Vue 3 + TypeScript)
+tags: [vue3, typescript, vite, wujie, example]
+category: examples
+created: 2021-06-01
+updated: 2026-10-20
+source: external
+type: index
+status: stable
+lifecycle: active
+---
 
-This template should help get you started developing with Vue 3 and Typescript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Wujie Vite Example (Vue 3 + TypeScript)
 
-## Recommended IDE Setup
+---
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+## 💡 概述
 
-## Type Support For `.vue` Imports in TS
+This template should help get you started developing with Vue 3 and TypeScript in Vite. It serves as a Vite-based example for the wujie micro-frontend framework. The template uses Vue 3 `<script setup>` SFCs.
 
-Since TypeScript cannot handle type information for `.vue` imports, they are shimmed to be a generic Vue component type by default. In most cases this is fine if you don't really care about component prop types outside of templates. However, if you wish to get actual prop types in `.vue` imports (for example to get props validation when using manual `h(...)` calls), you can enable Volar's `.vue` type support plugin by running `Volar: Switch TS Plugin on/off` from VSCode command palette.
+---
+
+## ⚡ 功能
+
+- Vue 3 Composition API with `<script setup>` syntax
+- TypeScript support
+- Vite dev server and build tooling
+
+---
+
+## 📊 指标
+
+「待補充」
+
+---
+
+## 🏛️ 设计
+
+「待補充」
+
+---
+
+## 📁 目录
+
+「待補充」
+
+---
+
+## 🔗 资源
+
+- [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup)
+
+---
+
+## 🚀 快速开始
+
+「待補充」
+
+---
+
+## ⚙️ 技术栈
+
+- Vue 3
+- TypeScript
+- Vite
